@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "8.71.1",
+    "eslint": "^10.12.0"
+  }
+}
